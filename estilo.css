@@ -1,6 +1,7 @@
 body {
     background: #d2d2c1 url( 'imagens/fundo.png' ) ;
     font: 16px Arial, Helvetica, sans-serif;
+    padding: 50px 450px;
 }
 
 #principal {
@@ -10,6 +11,7 @@ body {
 #menu {
     background: #c5c5b2;
     padding: 18px;
+   text-align: center;
 }
 
 #conteudo {
@@ -39,4 +41,11 @@ a {
 h1 {
     color: #828271 ;
     font-size: 1.2em;
+    text-align: center;
 }
+
+p {
+    text-align: justify;
+}
+
+
